@@ -1,1 +1,1 @@
-# codeigniternewsmagazine
+# codeigniter news magazine
